@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+center{
+    font-size: 30px;
+}
+u1{
+    overflow: hidden;
+    background-color: violet;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+u1 li{
+    float: left;
+    font-size: 13px;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    list-style-type: none;
+
+}
+li a{
+    text-decoration: none;
+    color: yellowgreen
+}
+.main{
+    font-family: Georgia;
+    font-size: 17px;
+    texr-align: center
+
+}
+ol{
+    font-family: Georgia;
+    font-size: 17px;
+    background-color: rebeccapurple;
+    text-align: left;
+    text-transform: uppercase;
+}
+h3{
+    color: indigo;
+}
